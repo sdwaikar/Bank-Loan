@@ -8,12 +8,18 @@ Data Visualization: Employs Excel for visualizing key performance indicators (KP
 Comprehensive Dashboards: Includes multiple dashboards highlighting various aspects of loan data such as loan status, borrower demographics, and loan purposes, enabling a thorough understanding of the bank’s portfolio.
 
 ### Repository Contents:
+
 Dashboard.xlsx: Contains the data visualization dashboards, including the design sheet, summary dashboard, and overview dashboard.
+
 Domain Knowledge.docx: Provides essential background information to understand the data and its implications in the financial domain.
+
 Problem Statement.docx: Outlines the objectives and requirements of the data analysis to guide the visualization process.
+
 Query Doc.docx: Includes SQL queries and their results for data extraction and validation.
+
 Terminologies in Data.docx: Explains key terminologies used within the data, enhancing understanding and accuracy in data handling.
-Importance of the Project
+
+### Importance of the Project
 Understanding bank loan data is crucial in the finance sector as it helps in risk assessment, decision-making, and regulatory compliance. Analyzing this data aids banks in identifying trends in loan uptake and repayment, which can influence future lending decisions and strategies for financial products. Moreover, knowledge of different loan statuses like 'Good Loans' vs. 'Bad Loans' provides critical insights into the financial health of the lending institution.
 
 ### Why Excel for Visualization?
