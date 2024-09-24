@@ -30,7 +30,7 @@ Total Loan Applications: Reports a total of 38.6K applications with significant 
 Good vs. Bad Loans: Distinguishes between 'Good Loans' and 'Bad Loans', showcasing the bank's ability to manage risks effectively.
 Interest Rates and Debt-To-Income Ratios (DTI): Provides insights into the cost of borrowing and the financial health of borrowers.
 
-###Overview Dashboard
+### Overview Dashboard
 ![image](https://github.com/user-attachments/assets/6f2ba262-628f-4859-8083-ddb2212a98ad)
 This dashboard offers a deeper dive into the bank's loan operations, analyzing data across various dimensions such as:
 Monthly Trends: Identifies seasonal patterns in lending activities.
