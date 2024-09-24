@@ -6,7 +6,8 @@ This repository hosts a Data Analyst Portfolio Project in the finance domain, sp
 SQL Queries: Utilizes SQL Server Management Studio (SSMS) for robust data querying. All queries are pre-validated in SSMS to ensure accuracy.
 Data Visualization: Employs Excel for visualizing key performance indicators (KPIs) related to bank loans, including total loans, funded amounts, and repayment rates. Excel is chosen for its accessibility and proficiency in handling dynamic data slicing, especially beneficial for users not familiar with more complex BI tools.
 Comprehensive Dashboards: Includes multiple dashboards highlighting various aspects of loan data such as loan status, borrower demographics, and loan purposes, enabling a thorough understanding of the bank’s portfolio.
-Repository Contents
+
+### Repository Contents:
 Dashboard.xlsx: Contains the data visualization dashboards, including the design sheet, summary dashboard, and overview dashboard.
 Domain Knowledge.docx: Provides essential background information to understand the data and its implications in the financial domain.
 Problem Statement.docx: Outlines the objectives and requirements of the data analysis to guide the visualization process.
@@ -36,4 +37,5 @@ This dashboard offers a deeper dive into the bank's loan operations, analyzing d
 Monthly Trends: Identifies seasonal patterns in lending activities.
 Geographic Distribution: Shows loan applications by state, helping identify market dynamics.
 Loan Term and Purpose: Breaks down loans by term and purpose, aiding in product tailoring.
+
 These dashboards are invaluable tools for the bank, enhancing data-driven decision-making, improving risk management, and tailoring services to meet customer needs more effectively.
